@@ -1,0 +1,26 @@
+{
+  "name": "functmpl-plus",
+  "version": "0.1.0",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zerokernel/functmpl-plus.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zerokernel/functmpl-plus/issues"
+  },
+  "homepage": "https://github.com/zerokernel/functmpl-plus#readme",
+  "dependencies": {
+    "functmpl": "^1.0.4"
+  },
+  "devDependencies": {
+    "babel-plugin-transform-async-to-generator": "^6.24.1",
+    "babel-plugin-transform-es2015-modules-commonjs": "^6.24.1"
+  }
+}
